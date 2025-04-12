@@ -6,6 +6,8 @@
 // @author       You
 // @match        https://lcc.live/*
 // @icon         https://lcc.live
+// @updateURL    https://raw.githubusercontent.com/stefanpenner/tamper/refs/heads/main/tamper.js
+// @downloadURL  https://raw.githubusercontent.com/stefanpenner/tamper/refs/heads/main/tamper.js
 // @run-at       document-start
 // @grant        none
 // ==/UserScript==
